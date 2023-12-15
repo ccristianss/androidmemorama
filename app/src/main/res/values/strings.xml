@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Memorama</string>
+    <string name="history_scores">Mejores Resultados</string>
+    <string name="name_player">Nombre Jugador</string>
+    <string name="score">Puntaje</string>
+    <string name="start_game">Iniciar Juego</string>
+    <string name="username">Nombre de Jugador</string>
+    <string name="play_now">JUGAR AHORA</string>
+    <string name="score_default">0000</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titles">38sp</dimen>
+    <dimen name="_23sp">23sp</dimen>
+    <dimen name="_12dp">12dp</dimen>
+</resources>
